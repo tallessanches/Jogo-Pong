@@ -6,11 +6,11 @@ Projeto fictício de Jogo Pong desenvolvido via JavaScript.
 | -------------  | --- |
 | :sparkles: Nome        | **Jogo Pong**
 | :label: Tecnologias | javascript
-| :rocket: URL         | https://github.com/tallessanches/meu-portfolio.git
+| :rocket: URL         | https://github.com/tallessanches/jogopong.git
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://raw.githubusercontent.com/tallessanches/meu-portfolio/main/jogopong.png)#vitrinedev)
+![](https://raw.githubusercontent.com/tallessanches/jogopong/main/jogopong.png)#vitrinedev)
 
 ## Detalhes do projeto
 
