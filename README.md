@@ -4,7 +4,7 @@ Projeto fictício de Jogo Pong desenvolvido via JavaScript.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Jogo Pong**
+| Nome        | **Jogo Pong**
 | :label: Tecnologias | javascript
 | :rocket: URL         | https://github.com/tallessanches/jogopong.git
 | :fire: Desafio     | 
