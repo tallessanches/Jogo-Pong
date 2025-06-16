@@ -9,7 +9,7 @@ Projeto fictício de Jogo Pong desenvolvido via JavaScript.
 | :rocket: URL        | https://editor.p5js.org/tallessanches/full/_Z_IgFMkZ
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://raw.githubusercontent.com/tallessanches/jogopong/main/jogopong.png)#vitrinedev)
+![](https://raw.githubusercontent.com/tallessanches/jogopong/main/jogopong.png)
 
 ## Detalhes do projeto
 
