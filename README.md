@@ -3,7 +3,9 @@
 Projeto fictício de Jogo Pong desenvolvido via JavaScript.
 
 | :fire:  Nome        | **Jogo Pong**
+
 | :label: Tecnologias | javascript
+
 | :rocket: URL        | https://editor.p5js.org/tallessanches/full/_Z_IgFMkZ
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
